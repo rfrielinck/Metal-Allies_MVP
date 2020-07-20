@@ -1,0 +1,55 @@
+.column {
+  float: left;
+  width: 50%;
+  list-style-type: none;
+}
+
+.left {
+  width: 35%;
+  margin-left: 10%;
+  float: left;
+  text-align: center;
+  border: 2px solid #e60003;
+  border-radius: 20px;
+  padding: 5px;
+  max-width: 500 px;
+  list-style-type: none;
+  
+}
+
+.right {
+  width: 35%;
+  margin-right: 10%;
+  float: right;
+  text-align: center;
+  border: 2px solid #e60003;
+  border-radius: 20px;
+  padding: 5px;
+  max-width: 500 px;
+  list-style-type: none;
+  
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+  list-style-type: none;
+  display: inline-block;
+}
+
+.secondary-text {
+  font-size: 2rem;
+  color: White);
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 14px;
+  letter-spacing: 1px;
+  color:Black;
+  font-style: italic;
+  text-decoration:none;
+  list-style-type: none;
+}
+
+li {list-style-type: none;}
