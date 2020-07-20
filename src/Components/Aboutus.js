@@ -28,12 +28,7 @@ function Aboutus() {
           </div>
           <div className="post">
             <p>
-              My first official project is this website. I have tried to make it
-              as dynamic as possible using React. When the screen size is down
-              to that of a tablet/mobile phone the Navigation bar at the top
-              dissapears and is replaced by a dropdown button that displays a
-              navigation menu, showing links that were originally in the
-              navigation bar. I created this dynamic component in React and
+              SCHAVUIT UEUEUEUEUEUUEUEUE is dynamic component in React and
               utilizing state. I have also tidied up the css to make things
               slightly more presentable.{" "}
             </p>
