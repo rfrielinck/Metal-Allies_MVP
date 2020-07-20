@@ -14,9 +14,7 @@ function Aboutus() {
           </div>
           <div className="post">
             <p>
-              Over the past few months I have been slowly but surely learning
-              front-end web development. I am starting to get more of an
-              understanding of how the basics work in React.{" "}
+              Ron heeft een grote navel test test.{" "}
             </p>
           </div>
         </div>
