@@ -44,9 +44,7 @@ function Aboutus() {
           </div>
           <div className="post">
             <p>
-              Aliqua labore qui enim ipsum cillum. Aliquip et deserunt
-              consectetur excepteur nostrud dolor voluptate Lorem amet veniam
-              labore ea. Sunt est officia minim pariatur quis.
+              Au printemps winnaars! WIJ ZUIPEN WÉL
             </p>
           </div>
         </div>
