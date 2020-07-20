@@ -16,7 +16,7 @@ function Main() {
   <br></br>
   We have customers in 0 countries, increasing production efficiency and reducing manufacturing costs. We have partnerships with zero's of industry supply chain service providers, both upstream and downstream.
   </p></div>
-      
+     
       <div class="row">
           
           <Link to="/Buyer">
@@ -41,8 +41,17 @@ function Main() {
           </li>
           </Link>
         </div>
-      
-      <div className="content" />
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+
+    <div class="headertext">
+    <p>Why you should use Metal Allies</p></div>
+    <div class="text"><p>
+    Metal Allies speeds up your buy - and selling process by providing a rapid search engine specifically for custom metal products. 
+    </p></div>
       
       <div className="footer">
       <div className="footertext">
